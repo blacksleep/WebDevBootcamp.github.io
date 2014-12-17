@@ -1,3 +1,18 @@
+- userid: blacksleep
+  student: true
+  session: Fall2014
+  name: Josh Waggoner
+  employed: false
+  github: https://github.com/blacksleep
+  linkedin: https://www.linkedin.com/in/joshwaggoner/
+  twitter: @josh_waggoner
+  email: joshua.j.waggoner@gmail.com
+  phone: 720-416-4366
+  city: Denver
+  state: CO
+  postal: 80012
+  resume: https://drive.google.com/file/d/0BxswW64g0jsiSnBXMGZVc2xUNTQ/view?usp=sharing
+
 - userid: mywoolf
   website: http://www.mwoolf-webdev.com
   student: true
